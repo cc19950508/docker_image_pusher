@@ -14,3 +14,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 grbhq/jdx:latest
 ht944/rabbitpro
+containrrr/watchtower
