@@ -16,3 +16,4 @@ grbhq/jdx:latest
 ht944/rabbitpro
 containrrr/watchtower
 hdbjlizhe/autman
+luomubiji/ntqq
