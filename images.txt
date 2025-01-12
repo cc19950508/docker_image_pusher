@@ -1,4 +1,4 @@
-#ap版本有某些域名不通
+#ap版本有某些域名不
 #whyour/qinglong:python3.10
 #低版本
 #whyour/qinglong:2.11.3
